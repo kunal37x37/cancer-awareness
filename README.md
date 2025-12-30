@@ -1,4 +1,4 @@
-# 🎗️ Cancer Awareness & Support Website
+# 🎗️ Cancer Awareness & Support Landing page
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -81,6 +81,6 @@ npm start
 
 ## 👨‍💻 Developer & Support
 #### Developer: Patel Kunal 
-#### Built with ❤️ using ASP.NET Core MVC
+#### Built Cancer Awareness landing page 
 #### Github:kunal37x37
-#### Project Link : https://github.com/kunal37x37/Movie-Booking-System
+#### Project Link : https://github.com/kunal37x37/cancer-awareness
