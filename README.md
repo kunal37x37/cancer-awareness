@@ -43,4 +43,29 @@ A fully responsive React-based website for cancer awareness and support with rea
 - **Build Tool:** Create React App
 - **Version Control:** Git & GitHub
 
-## 📁 Project Structure
+## 📁 Project 
+```
+cancer-awareness/
+├── src/
+│ ├── components/ # Modular React Components
+│ │ ├── Header.js # Navigation header
+│ │ ├── Hero.js # Hero section with CTA
+│ │ ├── Stats.js # Animated statistics
+│ │ ├── Features.js # Features carousel
+│ │ ├── QuotesSection.js # Real-time quotes from API
+│ │ ├── ContactForm.js # API-integrated contact form
+│ │ ├── SupportSection.js # Support information
+│ │ └── Footer.js # Footer with API status
+│ ├── pages/ # Page components
+│ │ └── LandingPage.js # Main landing page
+│ ├── services/ # API services
+│ │ └── apiService.js # Centralized API calls
+│ ├── utils/ # Constants & helpers
+│ │ └── constants.js # API URLs & configurations
+│ ├── styles/ # CSS files
+│ │ └── App.css # Main stylesheet
+│ ├── App.js # Root component
+│ └── index.js # Entry point
+├── public/ # Static files
+└── package.json # Dependencies
+```
