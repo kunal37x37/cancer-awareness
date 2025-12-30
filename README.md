@@ -10,8 +10,7 @@ A fully responsive React-based website for cancer awareness and support with rea
 
 ## 🌐 Demo
 
-<!-- Clickable Video Thumbnail -->
-[![Movie Booking System Demo](https://img.shields.io/badge/▶_CLICK_TO_PLAY_DEMO_VIDEO-FF0000?style=for-the-badge&logo=videoplayer&logoColor=white)](https://github.com/kunal37x37/Movie-Booking-System/blob/main/movie088.mp4)
+https://github.com/kunal37x37/cancer-awareness/blob/main/Cancer%20Awareness%20video.mp4
 
 📸 **Screenshots**  
 
