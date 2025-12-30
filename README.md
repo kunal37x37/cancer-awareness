@@ -17,9 +17,9 @@ A fully responsive React-based website for cancer awareness and support with rea
 
 **User  Screenshots:** 
 
-| Home Page | Register page |
+
 |------------|----------------|
-| <img width="1876" height="892" alt="image" src="https://github.com/user-attachments/assets/8c57599f-89e4-4872-84ea-077c901fff5e" /> | <img width="1883" height="881" alt="image" src="https://github.com/user-attachments/assets/acbc609d-5134-4dcd-86d1-09279e6a1c74" />|
+| <img width="1891" height="880" alt="image" src="https://github.com/user-attachments/assets/57a37214-6eea-4f49-a326-eebf7933191f" />|<img width="1813" height="873" alt="image" src="https://github.com/user-attachments/assets/7bda52b9-ba2a-4ea9-bceb-b5fb59a13b96" />|
 
 |Login page | Movie details page|
 |------------|----------------|
