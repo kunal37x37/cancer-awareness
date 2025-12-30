@@ -17,17 +17,10 @@ A fully responsive React-based website for cancer awareness and support with rea
 
 **User  Screenshots:** 
 
+| <img width="1891" height="880" alt="image" src="https://github.com/user-attachments/assets/57a37214-6eea-4f49-a326-eebf7933191f" />|<img width="1813" height="873" alt="image" src="https://github.com/user-attachments/assets/7bda52b9-ba2a-4ea9-bceb-b5fb59a13b96" />|<img width="1675" height="877" alt="image" src="https://github.com/user-attachments/assets/51fa39dd-6be8-4810-8074-7b348bfeba97" />|<img width="1746" height="876" alt="image" src="https://github.com/user-attachments/assets/0deab588-7b74-4a6a-af41-9a4cc7cb57aa" />|
 
-|------------|----------------|
-| <img width="1891" height="880" alt="image" src="https://github.com/user-attachments/assets/57a37214-6eea-4f49-a326-eebf7933191f" />|<img width="1813" height="873" alt="image" src="https://github.com/user-attachments/assets/7bda52b9-ba2a-4ea9-bceb-b5fb59a13b96" />|
 
-|Login page | Movie details page|
-|------------|----------------|
-|<img width="1893" height="759" alt="image" src="https://github.com/user-attachments/assets/284624d1-77d5-4ceb-a163-cdaada1ee8c7" />|<img width="1176" height="839" alt="image" src="https://github.com/user-attachments/assets/e5b5deb0-3cd0-427c-8e99-f26854f21672" />|
 
-|Ticket Booking page | confirmation /ticket download  page|
-|------------|----------------|
-|<img width="858" height="891" alt="image" src="https://github.com/user-attachments/assets/a44ea529-c83c-4658-a99c-b9c87d7ba547" />|<img width="1168" height="781" alt="image" src="https://github.com/user-attachments/assets/224ff223-7dce-47d6-882a-46c539d67aee" />|
 
 
 ## 🛠️ Tech Stack
