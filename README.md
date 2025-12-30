@@ -8,24 +8,6 @@
 
 A fully responsive React-based website for cancer awareness and support with real-time API integration, animations, and professional UI. Built as an internship project to demonstrate React skills with API integration.
 
-## 🚀 Live Demo
-[![Netlify](https://img.shields.io/badge/Netlify-Live_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cancer-awareness-kunal.netlify.app)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-222222?style=for-the-badge&logo=github&logoColor=white)](https://kunal37x37.github.io/cancer-awareness)
-
-🔗 **Live Website:** [https://cancer-awareness-kunal.netlify.app](https://cancer-awareness-kunal.netlify.app)
-
-## ✨ Features
-| Feature | Description |
-|---------|-------------|
-| ✅ **Real-time API Integration** | Fetches inspirational quotes from Quotable API with auto-refresh |
-| ✅ **Contact Form with API** | Form submission to JSONPlaceholder mock API with validation |
-| ✅ **Responsive Design** | Mobile-first approach using Bootstrap 5 grid system |
-| ✅ **Animated Counters** | Statistics with smooth counting animation |
-| ✅ **Interactive UI** | Hover effects, carousel animations, smooth transitions |
-| ✅ **Professional Structure** | Modular React components with separation of concerns |
-| ✅ **API Status Monitoring** | Real-time API health checks and offline fallback |
-| ✅ **Form Validation** | Client-side validation with error messages |
-| ✅ **Loading States** | Spinners and loading indicators for API calls |
 
 ## 📸 Screenshots
 | Section | Preview |
