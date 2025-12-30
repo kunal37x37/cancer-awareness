@@ -9,12 +9,6 @@
 A fully responsive React-based website for cancer awareness and support with real-time API integration, animations, and professional UI. Built as an internship project to demonstrate React skills with API integration.
 
 
-## 📸 Screenshots
-| Section | Preview |
-|---------|---------|
-| **Hero Section** | ![Hero](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80) |
-| **Features** | ![Features](https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&auto=format&fit=crop&w-800&q=80) |
-| **Contact Form** | ![Contact](https://images.unsplash.com/photo-1587560699334-cc4ff634909a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80) |
 
 ## 🛠️ Tech Stack
 - **Frontend Framework:** React 18.2.0
@@ -82,5 +76,5 @@ npm start
 ## 👨‍💻 Developer & Support
 #### Developer: Patel Kunal 
 #### Built Cancer Awareness landing page 
-#### Github:kunal37x37
+#### Github: https://github.com/kunal37x37
 #### Project Link : https://github.com/kunal37x37/cancer-awareness
