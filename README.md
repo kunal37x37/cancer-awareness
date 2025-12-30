@@ -69,3 +69,24 @@ cancer-awareness/
 ├── public/ # Static files
 └── package.json # Dependencies
 ```
+
+## 🚦 Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/kunal37x37/cancer-awareness.git
+
+# Navigate to project directory
+cd cancer-awareness
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
